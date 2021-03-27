@@ -1,7 +1,7 @@
 # NEU-CSV-Formatting
-Overview: Creates a formatted file for each raw data file as well as an aggregate
+### Overview: Creates a formatted file for each raw data file as well as an aggregate
 
-General operation of this Python file:
+### General operation of this Python file:
 1. Scan local directory and collect all file names that match naming convention for raw data files
 2. Each raw data file gets:
     * Scanned for all needed values/metrics
@@ -11,3 +11,7 @@ General operation of this Python file:
 4. Output message to the console indiciating:
     * how many files found, read, and formatted. 
     * which files found, read, and formatted. 
+
+### Other files:
+There is also a file included called format_all.txt. This is just to save the trouble of opening the terminal window to execute the Python script. To use it for your own system:
+
