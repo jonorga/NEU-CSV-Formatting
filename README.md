@@ -13,5 +13,4 @@
     * which files found, read, and formatted. 
 
 ### Other files:
-There is also a file included called format_all.txt. This is just to save the trouble of opening the terminal window to execute the Python script. To use it for your own system:
-
+There is also a file included called format_all.txt. This is just to save the trouble of opening the terminal window to execute the Python script.
