@@ -1,0 +1,4 @@
+@ECHO OFF
+cd C:\Your\folder\location
+python format.py
+PAUSE
